@@ -1,2 +1,0 @@
-# gitclone
-New
